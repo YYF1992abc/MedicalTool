@@ -22,6 +22,14 @@
     NSLog(@"Hello, Git Messageasfasf");
     NSLog(@"Hello,fengge");
     
+    NSString *strq = nil;
+    NSLog(@"Hello world change lifestyle  ");
+    
+    
+    NSArray *arrat = nil;
+    NSMutableData *data = [[NSMutableData alloc]initWithCapacity:10];
+
+    NSMutableData *data1 = [[NSMutableData alloc]initWithCapacity:10];
 }
 
 
