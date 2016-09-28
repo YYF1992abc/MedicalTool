@@ -20,7 +20,7 @@
     NSLog(@"Hello, Git Messageasfasf");
     
     
-    NSLog(@"Hello world");
+    NSLog(@"Hello world change lifestyle  ");
     
 }
 
