@@ -20,7 +20,7 @@
     NSLog(@"Hello, Git Messageasfasf");
     NSLog(@"Hello,fengge");
     
-    
+    NSString *str = nil;
     NSLog(@"Hello world change lifestyle  ");
     
 }
