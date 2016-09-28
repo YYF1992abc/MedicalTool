@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"Hello, Git 222");
+    NSLog(@"Hello, Git ever1121212");
 
     NSLog(@"Hello, Git Messageasfasf");
     NSLog(@"Hello,fengge");
