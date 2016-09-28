@@ -26,7 +26,8 @@
     
     NSArray *arrat = nil;
     NSMutableData *data = [[NSMutableData alloc]initWithCapacity:10];
-    
+
+    NSMutableData *data1 = [[NSMutableData alloc]initWithCapacity:10];
 }
 
 
