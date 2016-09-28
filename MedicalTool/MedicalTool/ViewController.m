@@ -23,6 +23,9 @@
     NSString *strq = nil;
     NSLog(@"Hello world change lifestyle  ");
     
+    
+    NSArray *arrat = nil;
+    
 }
 
 
