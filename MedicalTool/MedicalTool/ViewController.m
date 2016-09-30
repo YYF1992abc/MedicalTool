@@ -22,24 +22,21 @@
 
     NSLog(@"Hello, Git Messageasfasf");
     NSLog(@"Hello,fengge");
+    NSLog(@"Hello world change lifestyle");
+    
+    
     
     NSString *strq = nil;
-    NSLog(@"Hello world change lifestyle  ");
-    
-    
     NSArray *arrat = nil;
     NSMutableData *data = [[NSMutableData alloc]initWithCapacity:10];
 
     NSMutableData *data1 = [[NSMutableData alloc]initWithCapacity:10];
-    
     
     NSLog(@"Today is Friday");
     
     
     
 }
-
-
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
