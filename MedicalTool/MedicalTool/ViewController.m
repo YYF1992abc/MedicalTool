@@ -32,6 +32,7 @@
 
     NSMutableData *data1 = [[NSMutableData alloc]initWithCapacity:10];
     
+    
     NSLog(@"Today is Friday");
     
     
