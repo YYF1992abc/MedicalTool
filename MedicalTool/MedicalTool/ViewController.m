@@ -17,23 +17,19 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+   
     NSLog(@"Hello, Git 222");
     NSLog(@"Hello, Git ever1121212");
 
     NSLog(@"Hello, Git Messageasfasf");
     NSLog(@"Hello,fengge");
+    NSLog(@"Hello world change lifestyle");
     
-    NSString *strq = nil;
-    NSLog(@"Hello world change lifestyle  ");
+    NSLog(@"Today is Friday");
     
     
-    NSArray *arrat = nil;
-    NSMutableData *data = [[NSMutableData alloc]initWithCapacity:10];
-
-    NSMutableData *data1 = [[NSMutableData alloc]initWithCapacity:10];
+    
 }
-
-
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
