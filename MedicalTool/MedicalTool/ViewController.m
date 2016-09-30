@@ -24,14 +24,6 @@
     NSLog(@"Hello,fengge");
     NSLog(@"Hello world change lifestyle");
     
-    
-    
-    NSString *strq = nil;
-    NSArray *arrat = nil;
-    NSMutableData *data = [[NSMutableData alloc]initWithCapacity:10];
-
-    NSMutableData *data1 = [[NSMutableData alloc]initWithCapacity:10];
-    
     NSLog(@"Today is Friday");
     
     
